@@ -1,0 +1,19 @@
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore the virtual environment directory
+venv/
+
+# Ignore the log files
+*.log
+
+# Ignore the database file
+db.sqlite3
+
+# Ignore the vscode settings
+.vscode
+
+# Ignore the .ipynb files
+*.ipynb
+sample
+*.csv
